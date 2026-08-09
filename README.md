@@ -27,8 +27,7 @@ I like turning rough ideas into working software: small libraries, internal tool
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [ansible-k8s-baremetal](https://github.com/alekpopovic/ansible-k8s-baremetal) | Ansible automation for Kubernetes on bare-metal infrastructure | Ansible, Kubernetes |
-| [cloudivision](https://github.com/alekpopovic/cloudivision) | Kubernetes-native CI/CD platform built around CRDs, controllers, Jobs, and GitOps | Go, Kubernetes, Angular |
+| [ansible-k8s-baremetal](https://github.com/alekpopovic/ansible-k8s-baremetal) | Ansible automation for Kubernetes on bare-metal infrastructure | Ansible, Kubernetes |Angular |
 | [clusterforge](https://github.com/alekpopovic/clusterforge) | Terraform/OpenTofu framework and CLI for Kubernetes, ECS, Nomad, and Docker platforms | Go, Terraform |
 | [orch](https://github.com/alekpopovic/orch) | Small-cluster Docker orchestrator with an API server, worker agent, and operator CLI | Go, Docker |
 
