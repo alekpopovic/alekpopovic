@@ -40,13 +40,6 @@ I like turning rough ideas into working software: small libraries, internal tool
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### GitHub Snapshot
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alekpopovic&show_icons=true&hide_title=true&hide_border=true&rank_icon=github" alt="Aleksandar's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekpopovic&layout=compact&hide_border=true" alt="Aleksandar's most used languages" />
-</p>
-
 ### Connect
 
 The best place to start is [LinkedIn](https://www.linkedin.com/in/alekpopovic). You can also find me on [X](https://x.com/alek_popovic) or explore the rest of my public work in my [repositories](https://github.com/alekpopovic?tab=repositories).
