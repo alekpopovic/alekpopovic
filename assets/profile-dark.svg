@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Aleksandar Popovic</title>
+  <desc id="desc">Software engineer. Product builder. Systems thinker. A dark banner with cream lettering, a purple book, connected nodes, and an orange flower.</desc>
+  <style>
+    .background { fill: #111420; }
+    .ink { fill: #fff3b8; }
+    .body { fill: #e2dfef; }
+    .rule { stroke: #c4b5fd; stroke-opacity: .3; }
+    .node { stroke: #c4b5fd; }
+    .node-empty { fill: #111420; }
+    .shadow { fill: #29233f; }
+    .accent { fill: #ff7040; }
+  </style>
+  <rect class="background" width="1200" height="400" rx="24"/>
+  <path class="rule" d="M36 68h1128M36 350h1128"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text class="ink" x="40" y="44" font-size="16" font-weight="700" letter-spacing="2">ALEKPOPOVIC / ENGINEERING</text>
+    <text class="ink" x="1160" y="44" font-size="15" text-anchor="end">ALEKSINAC, SERBIA</text>
+    <text class="ink" x="40" y="142" font-size="60" font-weight="800" letter-spacing="-2">Aleksandar</text>
+    <text class="ink" x="40" y="206" font-size="60" font-weight="800" letter-spacing="-2">Popovic<tspan class="accent">.</tspan></text>
+    <text class="body" x="43" y="248" font-size="22">Software engineer. Product builder. Systems thinker.</text>
+    <rect x="40" y="280" width="98" height="36" rx="18" fill="#2153d8"/>
+    <text x="89" y="303" fill="#fff3b8" font-size="13" font-weight="700" text-anchor="middle">BOOKS</text>
+    <rect x="147" y="280" width="150" height="36" rx="18" fill="#5941d9"/>
+    <text x="222" y="303" fill="#fff3b8" font-size="13" font-weight="700" text-anchor="middle">OPEN SOURCE</text>
+    <rect x="306" y="280" width="166" height="36" rx="18" fill="#ffd33d"/>
+    <text x="389" y="303" fill="#20201e" font-size="13" font-weight="700" text-anchor="middle">PRACTICAL SYSTEMS</text>
+    <text class="ink" x="40" y="379" font-size="15" font-weight="700">SMALL IDEAS. BETTER SYSTEMS.</text>
+    <text class="ink" x="1160" y="379" font-size="15" text-anchor="end">alekpopovic.github.io</text>
+  </g>
+  <g transform="translate(770 108) rotate(-9 85 94)">
+    <rect class="shadow" x="13" y="11" width="160" height="202" rx="13"/>
+    <rect width="160" height="202" rx="13" fill="#5941d9"/>
+    <path d="M20 0v202" stroke="#402aaa" stroke-width="6"/>
+    <path d="m57 61-17 17 17 17m46-34 17 17-17 17M87 55 73 103" stroke="#fff3b8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 136h80M40 153h58" stroke="#ffd33d" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="127" cy="178" r="8" fill="#fd4401"/>
+  </g>
+  <g class="node" stroke-width="5">
+    <path d="M985 175h100v115h-100v-45" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="966" y="156" width="38" height="38" rx="10" fill="#ffd33d"/>
+    <rect class="node-empty" x="1066" y="156" width="38" height="38" rx="10"/>
+    <rect x="1066" y="271" width="38" height="38" rx="10" fill="#00c6c8"/>
+    <rect x="966" y="271" width="38" height="38" rx="10" fill="#ffc2d1"/>
+  </g>
+  <g class="accent" transform="translate(1100 111)">
+    <ellipse ry="41" rx="16"/><ellipse ry="41" rx="16" transform="rotate(45)"/><ellipse ry="41" rx="16" transform="rotate(90)"/><ellipse ry="41" rx="16" transform="rotate(135)"/>
+    <circle r="14" fill="#ffd33d"/>
+  </g>
+</svg>

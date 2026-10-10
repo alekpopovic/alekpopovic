@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="480" viewBox="0 0 320 480" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Modern CI</title>
+  <desc id="desc">Building a Reliable CI/CD Platform by Aleksandar Popovic. A blue cover with cream and yellow lettering and connected pipeline nodes.</desc>
+  <rect width="320" height="480" rx="14" fill="#2153d8"/>
+  <path d="M12 0v480" stroke="#163fae" stroke-width="12"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#fff3b8">
+    <text x="34" y="44" font-size="11" letter-spacing="1.4">OPEN ENGINEERING BOOK</text>
+    <text x="30" y="126" font-size="55" font-weight="800" letter-spacing="-2">Modern</text>
+    <text x="30" y="185" font-size="65" font-weight="800">CI<tspan fill="#ffd33d">.</tspan></text>
+    <text x="34" y="224" font-size="18">Building a Reliable</text>
+    <text x="34" y="248" font-size="18">CI/CD Platform</text>
+    <text x="34" y="421" font-size="12">Go · Angular · PostgreSQL</text>
+    <text x="34" y="453" font-size="16" font-weight="700">Aleksandar Popovic</text>
+  </g>
+  <path d="M34 400h254" stroke="#fff3b8" stroke-opacity=".4"/>
+  <g transform="translate(108 284)">
+    <path d="M18 17h130v78M18 17v78h65V56h65" stroke="#fff3b8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="18" cy="17" r="14" fill="#00c6c8"/><circle cx="148" cy="17" r="14" fill="#ffc2d1"/><circle cx="18" cy="95" r="14" fill="#ffd33d"/><circle cx="83" cy="56" r="14" fill="#5941d9"/><circle cx="148" cy="95" r="14" fill="#fd4401"/>
+  </g>
+</svg>
